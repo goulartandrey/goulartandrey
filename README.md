@@ -6,6 +6,6 @@
 - Ainda pretendo adicionar mais conteúdo visando o WebScraping, a automação, o Desenvolvimento web utilizando Html, CSS e JavaScript para o front-end e Django/Flask no back-end e projetos de análise de dados
 - Meus contatos além do GitHub são:
 - 📫 E-mail: goularttandd@gmail.com
-- 📱  Telefone: +55(51) 9 9449-3302 
+- 📱  Telefone: +55(51) 9 9291-4522 
 - 💼 Linkedin: https://www.linkedin.com/in/goulartandrey/
 - Até mais!
