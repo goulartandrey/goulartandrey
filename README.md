@@ -1,7 +1,6 @@
 - Olá, Sou o @goulartandrey
-- Sou estudante de Ciência de Dados na Uniritter em Porto Alegre/RS
+- Sou estudante de Análise e desenvolvimento de sistemas: Full Stack e mobile na PUCRS em Porto Alegre/RS
 - Atualmente trabalho como Service Desk Analyst na HCL Technologies fornecendo suporte de TI para usuarios de Grandes Farmacêuticas como Jansen, Abbvie e Takeda
-- Oficialmente estudo ciência de dados mas também me aventuro em projetos pessoais de desenvolvimento utilizando como linguagem principal o Python
 - Meus repositórios ainda estão em construção, mas já existe uma pequena amostra de meus interesses e habilidades com as tecnologias atuais
 - Ainda pretendo adicionar mais conteúdo visando o WebScraping, a automação, o Desenvolvimento web utilizando Html, CSS e JavaScript para o front-end e Django/Flask no back-end e projetos de análise de dados
 - Meus contatos além do GitHub são:
