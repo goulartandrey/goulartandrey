@@ -1,8 +1,7 @@
 - Olá, Sou o @goulartandrey
 - Sou estudante de Análise e desenvolvimento de sistemas: Full Stack e mobile na PUCRS em Porto Alegre/RS
-- Atualmente trabalho como Service Desk Analyst na HCL Technologies fornecendo suporte de TI para usuarios de Grandes Farmacêuticas como Jansen, Abbvie e Takeda
+- Atualmente sou estagiário de desenvolvimento full stack na Pix Force AI onde diariamente me desenvolvo com as linguagens Python, Javascript e com tecnolgias como react, fastapi, docker, git, GCP, AWS e banco de dados relacionais com POSTGRESQL
 - Meus repositórios ainda estão em construção, mas já existe uma pequena amostra de meus interesses e habilidades com as tecnologias atuais
-- Ainda pretendo adicionar mais conteúdo visando o WebScraping, a automação, o Desenvolvimento web utilizando Html, CSS e JavaScript para o front-end e Django/Flask no back-end e projetos de análise de dados
 - Meus contatos além do GitHub são:
 - 📫 E-mail: goularttandd@gmail.com
 - 📱  Telefone: +55(51) 9 9291-4522 
