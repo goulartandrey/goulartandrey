@@ -1,8 +1,8 @@
 # Olá, seja bem-vindo 👋 
 
- Entusiasta dos códigos e programação, me encontrei na tecnologia em 2019 e a partir daquele momento tive certeza que era desenvolvendo coisas maneiras que eu queria construir minha trajetória profissional.
- Atuo principalmente com desenvolvimento web na construção e manutenção de api's modernas e seguras e também no desenvolvimento de interfaces responsivas e criativas.
- A fim de não ficar para trás em pleno ano da IA, também estou me aventurando no mundo de agentes de IA, LLM e RAG, em breve estará disponível projetos com este tema 😉
+ Entusiasta de códigos e programação, me encontrei na tecnologia em 2019 e a partir daquele momento tive certeza que era desenvolvendo coisas maneiras que eu queria construir minha trajetória profissional.
+ Atuo principalmente com desenvolvimento web na construção e manutenção de APIs modernas e seguras e também no desenvolvimento de interfaces responsivas e criativas.
+ A fim de não ficar para trás em pleno ano da IA, também estou me aventurando no mundo de agentes de IA, LLM e RAG - em breve estarão disponíveis projetos com este tema 😉
  That's all. See you around 🤘🏻
 
 ## 📊 Estatísticas
